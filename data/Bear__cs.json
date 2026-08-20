@@ -149,21 +149,6 @@
             "Location__Longitude__s": 5.717158,
             "Observations__c": "Bear with attitude",
             "Supervisor__c": "@ContactRef3"
-        },
-        {
-            "attributes": {
-                "type": "Bear__c",
-                "referenceId": "Bear__cRef11"
-            },
-            "Name": "kiri",
-            "Birthdate__c": "2005-29-04",
-            "Sex__c": "Male",
-            "Height__c": 10,
-            "Weight__c": 5,
-            "Location__Latitude__s": 50.332761,
-            "Location__Longitude__s": 13.717158,
-            "Observations__c": "a loser",
-            "Supervisor__c": "@ContactRef3"
         }
     ]
 }
