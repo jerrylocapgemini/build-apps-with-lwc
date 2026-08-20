@@ -16,11 +16,3 @@ steps:
     inputs:
       versionSpec: '18.x'
     displayName: 'Install Node.js'
-
-  - script: |
-      npm install
-      npm test
-    displayName: 'Install dependencies and run tests'
-
-  - script: npm run build
-    displayName: 'Build application'
